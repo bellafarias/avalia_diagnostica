@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(248, 188, 119);
+}
+h1{
+    color: rgb(222, 91, 9);
+    font-size: 90px;
+}
+p{
+    color: rgb(222, 91, 9);
+    font-size: 30px
+}
+li{
+    color: rgb(222, 91, 9);
+    font-size: 30px
+}
+img{
+    size: 40px;
+}
+a{
+    color: rgb(222, 91, 9);;
+    font-size: 40px;
+}
